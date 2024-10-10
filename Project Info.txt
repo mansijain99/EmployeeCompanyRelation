@@ -10,3 +10,5 @@
 
 5. Used ChatGpt tool for finding Department by companies by using JPA Query (Sql based) 
 	As I want to use some different approach from streams based finding
+
+6. Used local Oracle database connect for CRUD operation
